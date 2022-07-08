@@ -1,0 +1,1 @@
+puts "Hello from OneBitCode Ruby course"
