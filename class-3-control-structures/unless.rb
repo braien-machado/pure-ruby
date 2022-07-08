@@ -1,6 +1,6 @@
 product_status = 'close'
 
-if not product_status == 'open'
+if not product_status == 'open' # or 'unless product_status == 'open'
   check_change = 'can'
 else
   check_change = 'can not'
